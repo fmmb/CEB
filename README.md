@@ -1,10 +1,12 @@
 # CEB: Computing for Economics and Business
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fmmb/CEB/blob/main/index.ipynb)
 
-### Computação para Economia e Ciências Empresariais (CECE)
-#### Iscte - Instituto Universitário de Lisboa
-#### Course 03875
+## Iscte - Instituto Universitário de Lisboa
+#### CECE: Computação para Economia e Ciências Empresariais (03875)
 
 Please send any comments or feedback to `fernando.batista@iscte-iul.pt`
+
+----
 
 ### Contents
 - Part 1 - Fundamentals
