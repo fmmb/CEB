@@ -48,7 +48,6 @@ For additional information about these subjects, please read the book [Python Da
 ### Evaluation and Exercises
 * Week 1 - [homework exercise](./notebooks/01-intro-python-hw.ipynb)
 * Week 2 - [Exercise 2 - Explore data](./notebooks/exercise2-explore-data.ipynb)
-* [Project Assignment](./Project/ceb-project.ipynb) (draft version)*
 
 ### Warning
 
